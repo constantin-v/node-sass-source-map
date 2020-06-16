@@ -1,0 +1,1 @@
+npx node-sass index.scss test.css  --source-map true --output-style compressed
